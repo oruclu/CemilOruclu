@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Cemil Oruclu from Baku, Azerbaijan</h1>
+<h3 align="center">A Flutter Mobile Developer from Azerbaijan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oruclu&label=Profile%20views&color=0e75b6&style=flat" alt="oruclu" /> </p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Hidden Internal Mobile App (Flutter)<br><br>🌱 I’m currently learning ASP.NET Core<br><br>💬 Ask me about Dart, Flutter<br><br>📫 How to reach me oruclu63@gmail.com
 
